@@ -11,4 +11,4 @@ export GPU_MAX_SINGLE_ALLOC_PERCENT=100
 export GPU_ENABLE_LARGE_ALLOCATION=100
 export GPU_MAX_WORKGROUP_SIZE=1024
 
-./SRBMiner-MULTI --algorithm minotaurx --pool stratum-eu.rplant.xyz:7068 --wallet RVB5jcbcTXPKiLLS2x9w19N6CdEF8vZEZz --gpu-boost 3
+./SRBMiner-MULTI --algorithm minotaurx --pool stratum-eu.rplant.xyz:7068 --wallet RVB5jcbcTXPKiLLS2x9w19N6CdEF8vZEZz --gpu-boost 6
